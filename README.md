@@ -38,6 +38,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,6 +47,7 @@
 </p>
 
 ---
+-->
 
 ## 🎨 Beyond code
 
